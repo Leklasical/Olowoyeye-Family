@@ -1,0 +1,40 @@
+
+.container{
+           width:100%;
+           text-align: center;
+           margin-left: auto;
+           margin-right: auto;}
+
+body {background-image:url(Parent2.);
+      background-color: aqua;
+     background-attachment: fixed;
+    background-repeat: no-repeat;
+  background-size: cover ;}
+
+  nav {width: 80%;
+       background-color: blue;
+       opacity: 0.9;
+       padding-top: 4.0px;
+       padding-bottom: 4.0px;
+       font-size: 15px;
+       margin-left: 140px
+       ;}
+  nav a {color:white;
+         padding:0px 30px}
+  nav a:hover {background-color:blueviolet}
+  div a {background-color: bisque;}
+  
+  
+
+h1 {text-align: center; font-size: large; font-size: 200%; color:black;font-style: oblique;}
+p {color:black;align:center}
+ul {color:gold;} 
+form {color:purple}
+button {color:green}
+section {width: 600px;margin-left: 210px;}
+footer {margin-left: 270;}
+
+
+
+
+main {font: 1em sans-serif; color:white;}
